@@ -1,9 +1,9 @@
 # Hi! [![wakatime](https://wakatime.com/badge/user/8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6.svg)](https://wakatime.com/@8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6)
 I'm Nathaniel and I like to code stuff. Anyways, i'll add more here!
-Website: https://natesway.github.io
-Website source: https://github.com/natesway/natesway.github.io
-- 🔭 I’m currently working on my FNF Engine
-- 🌱 I’m currently learning Haxe and lua
+Website: https://natesway.github.io/bio
+Website source: https://github.com/natesway/natesway.github.io/bio
+- 🔭 I’m currently working on DARKTIDE, my own RPG
+- 🌱 I’m currently learning GML
 - 😄 Pronouns: He/Him
   
   
